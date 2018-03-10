@@ -1,0 +1,172 @@
+﻿.CategoryLabelcss {
+    font-size: 40px;
+    color: #3b3a30;
+}
+
+.CateogrynameLabelcss {
+    font-size: 30px;
+    color: #36486b;
+}
+
+.agentLabelcss {
+    font-size: 30px;
+    color: #3b3a30;
+}
+
+.agentnameLabelcss {
+    font-size: 20px;
+    color: #36486b;
+}
+
+.descLabelcss {
+    font-size: 30px;
+    color: #3b3a30;
+}
+
+.DescriptionLabelcss {
+    font-size: 20px;
+    color: #36486b;
+}
+
+.Label1noofroomscss {
+    font-size: 30px;
+    color: #3b3a30;
+    margin-left: -130px;
+}
+
+.noofroomsLabelcss {
+    font-size: 20px;
+    color: #36486b;
+}
+
+.areaLabelcss {
+    font-size: 30px;
+    color: #3b3a30;
+    margin-left: -130px;
+}
+
+.Areamm2Labelcss {
+    font-size: 20px;
+    color: #36486b;
+}
+
+.StatusLabelcss {
+    font-size: 30px;
+    color: #3b3a30;
+    margin-left: -130px;
+}
+
+.StatusnameLabelcss {
+    font-size: 20px;
+    color: #36486b;
+}
+
+.AddressLabelcss {
+    font-size: 30px;
+    color: #3b3a30;
+}
+
+.AddressNameLabelcss {
+    font-size: 20px;
+    color: #36486b;
+}
+
+.CityLabelcss {
+    font-size: 30px;
+    color: #3b3a30;
+}
+
+.citynameLabelcss {
+    font-size: 20px;
+    color: #36486b;
+}
+
+.CountryLabelcss {
+    font-size: 30px;
+    color: #3b3a30;
+}
+
+.CountrynameLabelcss {
+    font-size: 20px;
+    color: #36486b;
+}
+
+.PriceLabelcss {
+    font-size: 30px;
+    color: #3b3a30;
+}
+
+.PricesumLabelcss {
+    font-size: 20px;
+    color: #36486b;
+}
+
+.CurrencyLabelcss {
+    font-size: 30px;
+    color: #3b3a30;
+}
+
+.CurrencynameLabelcss {
+    font-size: 20px;
+    color: #36486b;
+}
+
+.OwnerLabelcss {
+    font-size: 30px;
+    color: #3b3a30;
+}
+
+.OwnernameLabelcss {
+    font-size: 20px;
+    color: #36486b;
+}
+
+.PhoneLabelcss {
+    font-size: 30px;
+    color: #3b3a30;
+}
+
+.PhonenumberLabelcss {
+    font-size: 20px;
+    color: #36486b;
+}
+
+#agentdiv122 {
+    border-style: double;
+    border-color: #3b3a30;
+    width: 300px;
+    margin-left: 130px;
+    background-color: #77a8a8;
+}
+
+#desctostatusdiv {
+    border-style: double;
+    border-color: #3b3a30;
+    width: 500px;
+    margin-left: 130px;
+    background-color: #c5d5c5;
+}
+
+#addcitycoundiv {
+    border-style: double;
+    border-color: #3b3a30;
+    width: 400px;
+    margin-left: 130px;
+    background-color: #c0ded9
+}
+
+#pricecurrdiv {
+    border-style: double;
+    border-color: #3b3a30;
+    width: 300px;
+    margin-left: 130px;
+    background-color: #c5d5c5;
+}
+
+#ownerphonediv {
+    border-style: double;
+    border-color: #3b3a30;
+    width: 330px;
+    margin-left: 130px;
+    background-color: #9fa9a3;
+}

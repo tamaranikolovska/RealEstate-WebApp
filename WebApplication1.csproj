@@ -1,0 +1,296 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{E103FBBB-A6A0-44BC-AC86-E5767C4F387B}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WebApplication1</RootNamespace>
+    <AssemblyName>WebApplication1</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <UseIISExpress>true</UseIISExpress>
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode>false</IISExpressUseClassicPipelineMode>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="AboutUs.aspx" />
+    <Content Include="AboutUsStyleSheet.css" />
+    <Content Include="Administrator.aspx" />
+    <Content Include="AdminListStyleSheet.css" />
+    <Content Include="Agent.aspx" />
+    <Content Include="AgentsPublishesStyleSheet.css" />
+    <Content Include="ContactUs.aspx" />
+    <Content Include="ContactUsStyleSheet.css" />
+    <Content Include="Home.aspx" />
+    <Content Include="homeslideshowimages\aboutusimage.jpg" />
+    <Content Include="homeslideshowimages\five.jpg" />
+    <Content Include="homeslideshowimages\four.jpg" />
+    <Content Include="homeslideshowimages\image1.jpg" />
+    <Content Include="homeslideshowimages\image2.png" />
+    <Content Include="homeslideshowimages\one.jpg" />
+    <Content Include="homeslideshowimages\six.jpg" />
+    <Content Include="homeslideshowimages\three.jpg" />
+    <Content Include="homeslideshowimages\two.jpg" />
+    <Content Include="homestylesheet.css" />
+    <Content Include="images\a.jpg" />
+    <Content Include="images\aa.jpg" />
+    <Content Include="images\aaa.jpg" />
+    <Content Include="images\b.jpg" />
+    <Content Include="images\bb.jpg" />
+    <Content Include="images\bbb.jpg" />
+    <Content Include="images\c.jpg" />
+    <Content Include="images\cc.jpg" />
+    <Content Include="images\ccc.jpg" />
+    <Content Include="images\d.jpg" />
+    <Content Include="images\dd.jpg" />
+    <Content Include="images\ddd.jpg" />
+    <Content Include="images\e.jpg" />
+    <Content Include="images\ee.jpg" />
+    <Content Include="images\eee.jpg" />
+    <Content Include="images\f.jpg" />
+    <Content Include="images\ff.jpg" />
+    <Content Include="images\fff.jpg" />
+    <Content Include="images\g.jpg" />
+    <Content Include="images\gg.jpg" />
+    <Content Include="images\ggg.jpg" />
+    <Content Include="images\h.jpg" />
+    <Content Include="images\hh.jpg" />
+    <Content Include="images\hhh.jpg" />
+    <Content Include="images\homebackground.jpg" />
+    <Content Include="images\i.jpg" />
+    <Content Include="images\ii.jpg" />
+    <Content Include="images\iii.jpg" />
+    <Content Include="images\j.jpg" />
+    <Content Include="images\jj.jpg" />
+    <Content Include="images\jjj.jpg" />
+    <Content Include="images\k.jpg" />
+    <Content Include="images\kk.jpg" />
+    <Content Include="images\kkk.jpg" />
+    <Content Include="images\l.jpg" />
+    <Content Include="images\ll.jpg" />
+    <Content Include="images\lll.jpg" />
+    <Content Include="images\loginbackground.jpg" />
+    <Content Include="images\m.jpg" />
+    <Content Include="images\mm.jpg" />
+    <Content Include="images\mmm.jpg" />
+    <Content Include="images\n.jpg" />
+    <Content Include="images\nn.jpg" />
+    <Content Include="images\nnn.jpg" />
+    <Content Include="images\o.jpg" />
+    <Content Include="images\oo.jpg" />
+    <Content Include="images\ooo.jpg" />
+    <Content Include="images\p.jpg" />
+    <Content Include="images\pp.jpg" />
+    <Content Include="images\ppp.jpg" />
+    <Content Include="images\q.jpg" />
+    <Content Include="images\qqq.jpg" />
+    <Content Include="images\r.jpg" />
+    <Content Include="images\registrationformbackground.jpg" />
+    <Content Include="images\rrr.jpg" />
+    <Content Include="images\s.jpg" />
+    <Content Include="images\sss.jpg" />
+    <Content Include="images\t.jpg" />
+    <Content Include="images\ttt.jpg" />
+    <Content Include="images\u.jpg" />
+    <Content Include="images\uuu.jpg" />
+    <Content Include="images\v.jpg" />
+    <Content Include="images\vvv.jpg" />
+    <Content Include="images\w.jpg" />
+    <Content Include="images\websitelogo.png" />
+    <Content Include="images\wwwwwwww.jpg" />
+    <Content Include="images\x.jpg" />
+    <Content Include="images\xxx.jpg" />
+    <Content Include="images\y.jpg" />
+    <Content Include="images\yyy.jpg" />
+    <Content Include="images\z.jpg" />
+    <Content Include="images\zzz.jpg" />
+    <Content Include="LogIn.aspx" />
+    <Content Include="LogInStyleSheet.css" />
+    <Content Include="RealEstateAllDetails.aspx" />
+    <Content Include="RealEstateAllDetailStyleSheet.css" />
+    <Content Include="RegFormStyleSheet.css" />
+    <Content Include="Registration.aspx" />
+    <Content Include="Balloon.css" />
+    <Content Include="SendMessagePopUp.aspx" />
+    <Content Include="SendMessagePopUpStyleSheet.css" />
+    <Content Include="socialmedia\esteticborder.png" />
+    <Content Include="socialmedia\facebook.png" />
+    <Content Include="socialmedia\heartLikeButton.png" />
+    <Content Include="socialmedia\insta.png" />
+    <Content Include="socialmedia\likebutton.png" />
+    <Content Include="socialmedia\twitter.png" />
+    <Content Include="User.aspx" />
+    <Content Include="UserStyleSheet.css" />
+    <Content Include="UserSuccessfullyPublishedStyleSheet.css" />
+    <Content Include="Web.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AboutUs.aspx.cs">
+      <DependentUpon>AboutUs.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AboutUs.aspx.designer.cs">
+      <DependentUpon>AboutUs.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Administrator.aspx.cs">
+      <DependentUpon>Administrator.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Administrator.aspx.designer.cs">
+      <DependentUpon>Administrator.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Agent.aspx.cs">
+      <DependentUpon>Agent.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Agent.aspx.designer.cs">
+      <DependentUpon>Agent.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ContactUs.aspx.cs">
+      <DependentUpon>ContactUs.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ContactUs.aspx.designer.cs">
+      <DependentUpon>ContactUs.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Home.aspx.cs">
+      <DependentUpon>Home.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Home.aspx.designer.cs">
+      <DependentUpon>Home.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="LogIn.aspx.cs">
+      <DependentUpon>LogIn.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="LogIn.aspx.designer.cs">
+      <DependentUpon>LogIn.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RealEstateAllDetails.aspx.cs">
+      <DependentUpon>RealEstateAllDetails.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="RealEstateAllDetails.aspx.designer.cs">
+      <DependentUpon>RealEstateAllDetails.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Registration.aspx.cs">
+      <DependentUpon>Registration.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Registration.aspx.designer.cs">
+      <DependentUpon>Registration.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="SendMessagePopUp.aspx.cs">
+      <DependentUpon>SendMessagePopUp.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="SendMessagePopUp.aspx.designer.cs">
+      <DependentUpon>SendMessagePopUp.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Site1.Master.cs">
+      <DependentUpon>Site1.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Site1.Master.designer.cs">
+      <DependentUpon>Site1.Master</DependentUpon>
+    </Compile>
+    <Compile Include="User.aspx.cs">
+      <DependentUpon>User.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="User.aspx.designer.cs">
+      <DependentUpon>User.aspx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\PublishProfiles\local.pubxml" />
+    <Content Include="Site1.Master" />
+    <None Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <None Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="imagess\" />
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>49570</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost:50035/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

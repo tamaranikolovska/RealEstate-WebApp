@@ -1,0 +1,450 @@
+﻿.BtnRegistrationn112 {
+    margin-top: 5px;
+    width: 108px;
+    height: 37px;
+    font-size: 17px;
+    color: white;
+    border-style: double;
+    border-color: white;
+    background-color: #3b3a30;
+}
+
+.LogInButton112 {
+    width: 80px;
+    height: 37px;
+    font-size: 17px;
+    color: white;
+    border-style: double;
+    border-color: white;
+    background-color: #3b3a30;
+}
+
+
+.LogOutButton112 {
+    width: 80px;
+    height: 37px;
+    font-size: 17px;
+    color: white;
+    border-style: double;
+    border-color: white;
+    background-color: #3b3a30;
+}
+
+#regloginlogout {
+    margin-left: 900px;
+    margin-top: -67px;
+    width: 370px;
+    height: 37px;
+}
+
+#homeupmanu {
+    width: 1328px;
+    height: 45px;
+    background-color: #3b3a30;
+    margin-top: -8px;
+}
+
+#realestatedetails {
+    background-color: white; 
+    width: 870px;
+    height: 204px;
+    border-style: double;
+    border-color: #3b3a30;
+    border-radius: 12px;
+}
+
+#blankspace {
+    height:10px;
+    width: 50px;
+    background-color: white;
+}
+
+#tablediv {
+    background-color:white;
+    width: 900px;
+    margin-left: 200px;
+}
+
+#cat {
+    margin-left: 430px;
+    font-size: 30px;
+    font-family: Algerian;
+    margin-top: -190px;
+    color:  #454140;
+}
+
+#imgg {
+    margin-left: 10px;
+}
+
+#pri {
+    margin-left: 540px;
+    font-size: 20px;
+    font-family: 'Arno Pro Display';
+    color: #618685;
+}
+
+#curr {
+    margin-left: 540px;
+    font-size: 20px;
+    font-family: 'Arno Pro Display';
+    color: #618685;
+}
+
+#stat {
+    margin-left: 540px;
+    font-size: 20px;
+    font-family: 'Arno Pro Display';
+    color: #618685;
+}
+
+#city {
+    margin-left: 540px;
+    font-size: 20px;
+    font-family: 'Arno Pro Display';
+    color: #618685;
+}
+
+#area {
+    margin-left: 540px;
+    font-size: 20px;
+    font-family: 'Arno Pro Display';
+    color: #618685;
+}
+
+#readmorebuttondiv {
+    margin-left: 750px;
+    margin-top: -20px;
+    height: 24px;
+    width: 85px;
+    background: white;
+    border-color: #3b3a30;
+    border-style: double;
+    border-radius: 12px;
+    box-shadow: 0 5px 0 white;
+    color: #618685;
+    cursor: pointer;
+    outline: 0;
+    transition: all .1s linear;
+    color: #618685;
+    font-family: 'Arno Pro Display';
+    font-size: 23px;
+    text-align:center;
+}
+
+#readmorebuttondiv:active {
+  box-shadow: 0 2px 0 white;
+  transform: translateY(3px);
+}
+
+#SearchRealEstateButton {
+    height: 250px;
+}
+
+.SearchRealEstateButtonnn11 {
+    border-style: double;
+    border-color: #80ced6;
+    color: #3b3a30;
+    background-color: white;
+}
+
+#searchboxdiv {
+    border-style: double;
+    border-color: #80ced6;
+    margin-top: -210px;
+   
+    -moz-box-shadow:-8px 8px 20px -6px #000;
+    -webkit-box-shadow:-8px 8px 20px -6px #000;
+    box-shadow:-8px 8px 20px -6px #000;
+    -moz-border-radius-bottomleft: 40px;
+    -webkit-border-bottom-left-radius: 40px;
+    border-bottom-left-radius: 40px;
+    -webkit-transition: height .5s ease;
+    -moz-transition: height .5s ease;
+    -ms-transition: height .5s ease;
+    -o-transition: height .5s ease;
+    transition: height .5s ease;
+}
+
+.CategoryDropDownListt {
+    border:3px solid #77a8a8;
+    border-radius:7px;
+}
+
+.CategoryLabell {
+    color: #3b3a30;
+
+}
+
+.StatusDropDownListt {
+    border:3px solid #77a8a8;
+    border-radius:7px;
+}
+
+.StatusLabell {
+    color: #3b3a30;
+}
+
+.PriceFromDropDownListt {
+    border:3px solid #77a8a8;
+    border-radius:7px;
+}
+
+.PricefromLabell {
+    color: #3b3a30;
+}
+
+.PricetoDropDownListt {
+    border:3px solid #77a8a8;
+    border-radius:7px;
+}
+
+.PricetoLabell {
+    color: #3b3a30;
+}
+
+.AreaFromDropDownListt {
+    border:3px solid #77a8a8;
+    border-radius:7px;
+}
+
+.AreaFromLabell {
+    color: #3b3a30;
+}
+
+.AreatoDropDownListt {
+    border:3px solid #77a8a8;
+    border-radius:7px;
+}
+
+.AreatoLabell {
+     color: #3b3a30;
+}
+
+.CityDropDownListt {
+    border:3px solid #77a8a8;
+    border-radius:7px;
+}
+
+.CityLabell {
+    color: #3b3a30;
+}
+
+.readmoreLinkButtonn {
+    color: #618685;
+}
+
+#contactagent {
+    margin-left: 750px;
+    margin-top: -80px;
+    height: 24px;
+    width: 110px;
+    background: white;
+    border-color: #3b3a30;
+    border-style: double;
+    border-radius: 12px;
+    box-shadow: 0 5px 0 white;
+    color: #618685;
+    cursor: pointer;
+    outline: 0;
+    transition: all .1s linear;
+    color: #618685;
+    font-family: 'Arno Pro Display';
+    font-size: 20px;
+    text-align:center;
+}
+
+#contactagent:active {
+    box-shadow: 0 2px 0 white;
+    transform: translateY(3px);
+}
+
+.ContactAgentLinkButton11 {
+    color: #618685;
+}
+
+.StatusofUserLogedInLabel112 {
+    color: white;
+    font-size: 30px;
+    margin-top: -8px;
+}
+
+.NameofUserLogedInLinkButton112 {
+    color: white;
+    font-size: 30px;
+    margin-top: -8px;
+}
+
+.LogoImage1223 {
+    width: 240px;
+    height: 240px;
+}
+
+#divLogoImage1 {
+    width: 240px;
+    height: 240px;
+    -ms-transform: rotate(10deg); /* IE 9 */
+    -webkit-transform: rotate(10deg); /* Chrome, Safari, Opera */
+    transform: rotate(10deg);
+    margin-top: -77px;
+    z-index: -1;
+    margin-left: -5px;
+}
+
+#slideshowdiv {
+    width: 1000px;
+    height: 260px;
+    margin-left: 150px;
+}
+
+.mySlides {display:none}
+
+/* The dots/bullets/indicators */
+.dot {
+  height: 13px;
+  width: 13px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.active {
+  background-color: #717171;
+}
+
+/* Fading animation */
+.fade {
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 1.5s;
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+@-webkit-keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+@keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+/* On smaller screens, decrease text size */
+@media only screen and (max-width: 300px) {
+  .text {font-size: 11px}
+}
+
+#dotsforslideshow {
+    margin-left: 600px;
+}
+
+#divFacebookImageButton1 {
+    width: 40px;
+    height: 40px;
+    margin-left: 450px;
+    margin-top: -32px;
+}
+
+.FacebookImageButton1css {
+    width: 40px;
+    height: 40px;
+}
+
+#divInstaImageButton1 {
+    width: 40px;
+    height: 40px;
+    margin-left: 600px;
+    margin-top: -42px;
+}
+
+.InstaImageButton1css {
+    width: 40px;
+    height: 40px;
+}
+
+#divTwitterImageButton {
+    width: 65px;
+    height: 50px;
+    margin-left: 730px;
+    margin-top: -44px;
+}
+
+.TwitterImageButton1css {
+    width: 65px;
+    height: 50px;
+}
+
+#contactaboutuslogo {
+    background-color: white;
+    height: 45px;
+    width: 1328px;
+    margin-top: -34px;
+}
+
+.LogoOficialImagecss {
+   margin-top: 2px;
+   margin-left: 5px;
+   height: 40px;
+   width: 45px;
+}
+
+#LogoOficialImagediv {
+    margin-top: 2px;
+    margin-left: 5px;
+    height: 40px;
+    width: 45px;
+}
+
+#aboutuscontactbuttons {
+    margin-left: 1100px;
+    margin-top: -36px;
+}
+
+.aboutusButton1css {
+    width: 86px;
+    height: 37px;
+    font-size: 17px;
+    color: black;
+    border-style: double;
+    border-color: white;
+    background-color: white;
+}
+
+.contactButton2css {
+    width: 80px;
+    height: 37px;
+    font-size: 17px;
+    color: black;
+    border-style: double;
+    border-color: white;
+    background-color: white;
+    margin-left: 10px;
+}
+
+#likerealestatediv {
+    height: 30px;
+    width: 39px;
+    margin-left: 750px;
+    margin-top: -80px;
+}
+
+.likerealestatecss {
+    height: 40px;
+    width: 40px;
+    font-size: 25px;
+}
+
+.likerealestatecss:link {
+    color: red;
+}
+
+.likerealestatecss:hover {
+    color: green;
+}
+
+.likerealestatecss:active {
+    color: yellow;
+}

@@ -1,0 +1,186 @@
+﻿#UserNameTextBox {
+    font-size: 30px;
+}
+
+#PasswordTextBox {
+    font-size: 30px;
+}
+
+#AdminCodeTextBox {
+    font-size: 30px;
+}
+
+#AgentCodeTextBox {
+    font-size: 30px;
+}
+
+#MainRegistrationLabel {
+    font-size: 50px;
+}
+
+#SubmitRegistrationBtn {
+    font-size: 26px;
+}
+
+#mainregistrationformdiv {
+    width: 1330px;
+    height: 720px;
+    background-image: url(/images/registrationformbackground.jpg);
+    margin-top: -45px;
+}
+
+#officialregformdiv {
+    width: 550px;
+    height: 620px;
+    background-color: transparent;
+    margin-left: 380px;
+    margin-top: -62px;
+    border-color: black;
+    border-style: double;
+}
+
+#MainRegistrationLabeldiv {
+    margin-left: 100px;
+}
+
+.MainRegistrationLabelcss {
+    color: white;
+}
+
+#usernamelabeldiv {
+    margin-left: 35px;
+    margin-top: -50px;
+}
+
+.usernamelabelcss {
+    color: white;
+    font-size: 30px;
+}
+
+.UserNameTextBoxcss {
+    width: 360px;
+    height: 34px;
+    background-color: #e3e0cc;
+}
+
+#UserNameTextBoxdiv {
+    margin-left: 35px;
+    margin-top: -15px;
+}
+
+#passwordlabeldiv {
+    margin-left: 35px;
+    margin-top: -35px;
+}
+
+.passwordlabelcss {
+    color: white;
+    font-size: 30px;
+}
+ 
+#PasswordTextBoxdiv {
+    margin-left: 35px;
+    margin-top: -15px;
+}
+
+.PasswordTextBoxcss {
+    width: 360px;
+    height: 34px;
+    background-color: #e3e0cc;
+}
+
+#statusregdiv {
+    margin-left: 35px;
+    margin-top: -30px;
+}
+
+.statusregcss {
+    color: white;
+    font-size: 30px;
+}
+
+#StatusDropDownListdiv {
+    margin-left: 35px;
+    margin-top: -15px;
+}
+
+.StatusDropDownListcss {
+    width: 34px;
+    height: 150px;
+    background-color: #e3e0cc;
+    font-size: 20px;
+}
+
+#AdminCodeLabeldiv {
+    margin-left: 35px;
+    margin-top: -50px;
+}
+
+.AdminCodeLabelcss {
+    font-size: 30px;
+    color: white;
+}
+
+#AdminCodeTextBoxdiv {
+    margin-left: 35px;
+    margin-top: -15px;
+}
+
+.AdminCodeTextBoxcss {
+    height: 34px;
+    width: 138px;
+    background-color: #e3e0cc;
+    font-size: 20px;
+}
+
+#AgentCodeLabeldiv {
+    margin-left: 280px;
+    margin-top: -90px;
+}
+
+.AgentCodeLabelcss {
+    font-size: 30px;
+    color: white;
+}
+
+#AgentCodeTextBoxdiv {
+    margin-left: 280px;
+    margin-top: -15px;
+}
+
+.AgentCodeTextBoxcss {
+    height: 34px;
+    width: 138px;
+    background-color: #e3e0cc;
+    font-size: 20px;
+}
+
+#SubmitRegistrationBtndiv {
+    margin-left: 180px;
+    margin-top: -30px;
+}
+
+.SubmitRegistrationBtncss {
+    height: 42px;
+    width: 190px;
+    color: white;
+    background-color: transparent;
+    border-color: black;
+    border-style: double;
+}
+
+#getbackhomefromregform {
+    margin-left: 1190px;
+    margin-top: 60px;
+    height: 40px;
+    width: 110px;
+}
+
+.GetbackhomefromregformButtoncss {
+    height: 40px;
+    width: 110px;
+    color: white;
+    background-color: transparent;
+    font-size: 30px;
+}
+

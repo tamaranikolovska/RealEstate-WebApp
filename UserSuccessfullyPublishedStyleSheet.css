@@ -1,0 +1,1310 @@
+﻿#cat2 {
+    color: pink;
+    margin-left: 650px;
+    margin-top: -230px;
+    font-size: 30px;
+    font-family: Algerian;
+    color: 	white;
+}
+
+#stat2 {
+    font-size: 22px;
+    font-family: 'Arno Pro Display';
+    color: white;
+    margin-left: 450px;
+}
+
+#agentname2 {
+    font-size: 22px;
+    font-family: 'Arno Pro Display';
+    color: white;
+    margin-left: 450px;
+}
+
+#descr2 {
+    font-size: 22px;
+    font-family: 'Arno Pro Display';
+    color: white;
+    margin-left: 450px;
+}
+
+#noofrooms2 {
+    font-size: 22px;
+    font-family: 'Arno Pro Display';
+    color: white;
+    margin-left: 450px;
+}
+
+#area2 {
+    font-size: 22px;
+    font-family: 'Arno Pro Display';
+    color: white;
+    margin-left: 450px;
+}
+
+#streetaddress2 {
+    font-size: 22px;
+    font-family: 'Arno Pro Display';
+    color: white;
+    margin-left: 900px;
+    margin-top: -120px;
+}
+
+#city2 {
+    font-size: 22px;
+    font-family: 'Arno Pro Display';
+    color: white;
+    margin-left: 900px;
+}
+
+#pri2 {
+    font-size: 22px;
+    font-family: 'Arno Pro Display';
+    color: white;
+    margin-left: 900px;
+}
+
+#curr2 {
+    font-size: 22px;
+    font-family: 'Arno Pro Display';
+    color: white;
+    margin-left: 900px;
+}
+
+#ownername2 {
+    font-size: 22px;
+    font-family: 'Arno Pro Display';
+    color: white;
+    margin-left: 900px;
+}
+
+#contactphone2 {
+    font-size: 22px;
+    font-family: 'Arno Pro Display';
+    color: white;
+    margin-left: 900px;
+}
+
+#realestatedetails2 {
+    background-color: #3b3a30;
+    height: 290px;
+    width: 1180px;
+    border-style: double;
+    border-color: #0000FF;
+    border-radius: 8px;
+    margin-left: 55px;
+}
+
+#tablediv2 {
+    background-color: white;
+}
+
+#img222 {
+    margin-left: 108px;
+    margin-top: -107px;
+}
+
+#img333 {
+    margin-left: 215px;
+    margin-top: -107px;
+}
+
+#img444 {
+    margin-left: 324px;
+    margin-top: -107px;
+}
+#img555 {
+    margin-top: 30px;
+}
+
+#img666 {
+    margin-top: -107px;
+    margin-left: 109px;
+}
+
+#img777 {
+    margin-top: -107px;
+    margin-left: 217px;
+}
+
+#img888 {
+    margin-top: -107px;
+    margin-left: 325px;
+}
+
+.sendmessagess {
+    width: 620px;
+    margin-left: 10px;
+    border-color: #4ABDAC;
+    border-style: double;
+
+}
+
+#receivedmessages {
+    width: 620px;
+    margin-left: 650px;
+    border-color: #3b3a30;
+    border-style: double;
+    background: #b2c2bf;
+    margin-top: -295px;
+}
+
+#sendmessage {
+     border-color: #3b3a30;
+     border-style: double;
+     width: 500px;
+     margin-left: 400px;
+     margin-bottom: 40px;
+     background: #9fa9a3;
+}
+
+#realestatedetails4 {
+    border-style: dashed;
+    border-color: #808080;
+    width: 500px;
+    margin-left: 50px;
+    margin-top: 20px;
+    background: #F8F8FF;
+}
+
+#sendmessages {
+    background: #c5d5c5;
+}
+
+#blankspace4 {
+    background: #E6E6FA;
+}
+
+#senderr {
+    font-size: 20px;
+}
+
+#receiverr {
+    margin-left: 240px;
+    margin-top: -25px;
+    font-size: 20px;
+}
+
+#subjecttt {
+    font-size: 20px;
+    margin-top: 12px;
+    margin-left: 110px;
+}
+
+#contentt {
+    font-size: 16px;
+    margin-top: 20px;
+}
+
+#deletemessage {
+     margin-left: 420px;
+}
+
+.sendernamee {
+    font-size: 20px;
+}
+
+.PickReceiverDropDownListtt {
+    font-size: 20px;
+}
+
+.TextBox100 {
+    font-size: 20px;
+}
+
+.SendMessageButtonnn {
+    margin-left: -25px;
+    background-color: transparent;
+    border-style: double;
+    border-color: #3b3a30;
+    font-size: 30px;
+}
+
+.FromLabelcss {
+    font-size: 25px;
+}
+
+.ToLabelcss {
+    font-size: 25px;
+}
+
+.MessagesubjectLabelcss {
+    font-size: 25px;
+}
+
+#MessageContent {
+    width: 150px;
+}
+
+#realestatedetails44 {
+    border-style: dashed;
+    border-color: #3b3a30;
+    width: 500px;
+    margin-left: 50px;
+    margin-top: 20px;
+    background: #F8F8FF;
+}
+
+#blankspace44 {
+    background: #E6E6FA;
+}
+
+
+#senderr4 {
+    font-size: 20px;
+}
+
+#receiverr4 {
+    margin-left: 240px;
+    margin-top: -25px;
+    font-size: 20px;
+}
+
+#subjecttt4 {
+    font-size: 20px;
+    margin-top: 12px;
+    margin-left: 110px;
+}
+
+#contentt4 {
+    font-size: 16px;
+    margin-top: 20px;
+}
+
+#deletemessage4 {
+     margin-left: 420px;
+}
+
+#usermenudiv {
+    background-color: #3b3a30;
+    width: 1328px;
+    height: 45px;
+}
+
+.BackHomeFromUserButtoncss {
+    width: 80px;
+    height: 38px;
+    margin-top: 5px;
+    color: white;
+    border-color: white;
+    border-style: double;
+    background-color: transparent;
+    margin-left: 5px;
+}
+
+.NewPublishButtoncss {
+    width: 88px;
+    height: 38px;
+    margin-top: 5px;
+    color: white;
+    border-color: white;
+    border-style: double;
+    background-color: transparent;
+}
+
+.PublishButtoncss {
+    width: 85px;
+    height: 38px;
+    margin-top: 5px;
+    color: white;
+    border-color: white;
+    border-style: double;
+    background-color: transparent;
+}
+
+.MessagesButtoncss {
+    width: 85px;
+    height: 38px;
+    margin-top: 5px;
+    color: white;
+    border-color: white;
+    border-style: double;
+    background-color: transparent;
+}
+
+.SuggestionButtoncss {
+    width: 85px;
+    height: 38px;
+    margin-top: 5px;
+    color: white;
+    border-color: white;
+    border-style: double;
+    background-color: transparent;
+}
+
+.SpecificSuggestionsButtoncss {
+    margin-top: 5px;
+    color: white;
+    border-color: white;
+    border-style: double;
+    background-color: transparent;
+}
+
+.LogoutFromUserButtoncss {
+    width: 85px;
+    height: 38px;
+    margin-top: 5px;
+    color: white;
+    border-color: white;
+    border-style: double;
+    background-color: transparent;
+}
+
+#uploadimagesdiv {
+    background-color: #b2c2bf;
+    margin-left: 180px;
+    width: 300px;
+    height: 350px;
+    border-color: #3b3a30;
+    border-style: double;
+}
+
+#gd1 {
+    margin-left: -370px;
+}
+
+.FileUpload1css {
+    margin-left: 20px;
+    margin-top: 25px;
+    font-size: 16px;
+    background-color: transparent;
+}
+
+.uploadButtoncss {
+    font-size: 25px;
+    border-style: double;
+    border-color: #3b3a30;
+    background-color: transparent;
+}
+
+#uploadButtondiv {
+    margin-left: 86px;
+    margin-top: -50px;
+    height: 41px;
+    width: 95px
+}
+
+#catstatusagentdiv {
+    margin-left: 450px;
+    margin-top: -50px;
+    background-color: #3b3a30;
+    width: 650px;
+    height: 250px;
+    border-style: double;
+    border-color: #9fa9a3;
+}
+
+.CategoryLabelUser0css {
+    font-size: 25px;
+    color: white;
+}
+
+#CategoryLabelUser0div {
+    margin-left: 20px;
+    margin-top: 10px;
+    width: 70px;
+    height: 34px;
+}
+
+.CategoryDropDownListcss {
+    height: 34px;
+    width: 260px;
+    font-size: 25px;
+}
+
+#CategoryDropDownListdiv {
+    margin-left: 150px;
+    margin-top: -58px;
+}
+
+#statusLabeldiv {
+    margin-left: 20px;
+}
+
+.statusLabelcss {
+    font-size: 25px;
+    color: white;
+}
+
+.statusDropDownListcss {
+    height: 40px;
+    width: 145px;
+    font-size: 25px;
+}
+
+#statusDropDownListdiv {
+    height: 40px;
+    width: 145px;
+    margin-left: 450px;
+    margin-top: -60px;
+}
+
+#agentnameLabeldiv {
+    margin-left: 20px;
+    margin-top: -20px;
+}
+
+.agentnameLabelcss {
+    font-size: 25px;
+    color: white;
+}
+
+#AgentDropDownListdiv {
+    margin-left: 170px;
+    margin-top: -50px;
+}
+
+.AgentDropDownListcss {
+    height: 40px;
+    width: 186px;
+    font-size: 25px;
+}
+
+#descnoroomsaream2 {
+    height: 211px;
+    width: 450px;
+    background-color: #c5d5c5;
+    border-style: double;
+    border-color: #3b3a30;
+    margin-left: 80px;
+    margin-top: -50px;
+}
+
+.DescLabelcss {
+    font-size: 25px;
+}
+
+#DescLabeldiv {
+    margin-left: 20px;
+    margin-top: -5px;
+}
+
+#DescTextAreadiv {
+    margin-left: 150px;
+    margin-top: -80px;
+    height: 80px;
+    width: 150px;
+}
+
+#noofroomsLabeldiv {
+    margin-left: 20px;
+    margin-top: -10px;
+}
+
+.noofroomsLabelcss {
+    font-size: 25px;
+}
+
+#noofroomsDropDownListdiv {
+    margin-left: 220px;
+    margin-top: -50px;
+}
+
+.noofroomsDropDownListcss {
+    font-size: 20px;
+    height: 40px;
+    width: 80px;
+}
+
+#areaLabeldiv {
+    margin-left: 20px;
+    margin-top: -50px;
+}
+
+.areaLabelcss {
+    font-size: 25px;
+}
+
+#areaTextBoxdiv {
+    margin-left: 130px;
+    margin-top: -50px;
+}
+
+.areaTextBoxcss {
+    font-size: 25px;
+}
+
+#locationdiv {
+    margin-left: 300px;
+    margin-top: -50px;
+    background-color: #3b3a30;
+    border-color: #f0f0f0;
+    border-style: double;
+    width: 470px;
+    height: 180px;
+}
+
+#staddLabeldiv {
+    margin-left: 20px;
+    margin-top: -5px;
+}
+
+.staddLabelcss {
+    font-size: 25px;
+    color: white;
+}
+
+#staddTextBoxdiv {
+    margin-left: 180px;
+    margin-top: -50px;
+}
+
+.staddTextBoxcss {
+    font-size: 25px;
+    height: 40px;
+    width: 250px;
+}
+
+#cityLabeldiv {
+    margin-left: 20px;
+    margin-top: -20px;
+}
+
+.cityLabelcss {
+    font-size: 25px;
+    color: white;
+}
+
+#cityDropDownListdiv {
+    margin-left: 90px;
+    margin-top: -50px;
+}
+
+.cityDropDownListcss {
+    font-size: 25px;
+    height: 40px;
+    width: 157px;
+}
+
+#pricecurrdiv {
+    margin-left: 530px;
+    margin-top: -50px;
+    background-color: #b2c2bf;
+    border-style: double;
+    border-color: #3b3a30;
+    width: 470px;
+    height: 180px;
+}
+
+#priceLabeldiv {
+    margin-left: 20px;
+    margin-top: -5px;
+}
+
+.priceLabelcss {
+    font-size: 25px;
+}
+
+#priceTextBoxdiv {
+    margin-left: 90px;
+    margin-top: -50px;
+}
+
+.priceTextBoxcss {
+    font-size: 25px;
+    height: 40px;
+    width: 290px;
+}
+
+#currLabeldiv {
+    margin-left: 20px;
+    margin-top: -20px;
+}
+
+.currLabelcss {
+    font-size: 25px;
+}
+
+#currDropDownListdiv {
+    margin-left: 130px;
+    margin-top: -50px;
+}
+
+.currDropDownListcss {
+    font-size: 25px;
+    height: 40px;
+    width: 157px;
+}
+
+#contactownerdiv {
+    margin-left: 80px;
+    margin-top: -50px;
+    background-color: #3b3a30;
+    border-color: #f0f0f0;
+    border-style: double;
+    width: 470px;
+    height: 180px;
+}
+
+#publisherUsernameLabeldiv{
+    margin-left: 20px;
+    margin-top: -10px;
+}
+
+.publisherUsernameLabelcss {
+    font-size: 25px;
+    color: white;
+}
+
+#publisherusernameTextBoxdiv {
+    margin-left: 245px;
+    margin-top: -50px;
+}
+
+.publisherusernameTextBoxcss {
+    font-size: 25px;
+    height: 40px;
+    width: 190px;
+}
+
+#phonecontactLabeldiv {
+    margin-left: 20px;
+    margin-top: -20px;
+}
+
+.phonecontactLabelcss {
+    font-size: 25px;
+    color: white;
+}
+
+#phonecontactTextBoxdiv {
+    margin-left: 110px;
+    margin-top: -50px;
+}
+
+.phonecontactTextBoxcss {
+    font-size: 25px;
+    height: 40px;
+    width: 210px;
+}
+
+#SubmitthepublishButtondiv {
+
+}
+
+.SubmitthepublishButtoncss{
+    height: 70px;
+    width: 500px;
+    margin-left: 410px;
+    margin-top: -50px;
+    font-size: 50px;
+    background-color: transparent;
+    border-color: #3b3a30;
+    border-style: double;
+}
+
+
+.SuggestMeNewREButtoncss {
+    -moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	box-shadow:inset 0px 1px 0px 0px #ffffff;
+	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #ffffff), color-stop(1, #f6f6f6));
+	background:-moz-linear-gradient(top, #ffffff 5%, #f6f6f6 100%);
+	background:-webkit-linear-gradient(top, #ffffff 5%, #f6f6f6 100%);
+	background:-o-linear-gradient(top, #ffffff 5%, #f6f6f6 100%);
+	background:-ms-linear-gradient(top, #ffffff 5%, #f6f6f6 100%);
+	background:linear-gradient(to bottom, #ffffff 5%, #f6f6f6 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffff', endColorstr='#f6f6f6',GradientType=0);
+	background-color:#ffffff;
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+	border-radius:6px;
+	border:1px solid #dcdcdc;
+    border-style: dashed;
+    border-color: black;
+	display:inline-block;
+	cursor:pointer;
+	color:#666666;
+	font-family:Arial;
+	font-size:20px;
+	font-weight:bold;
+	padding:6px 24px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #ffffff;
+}
+.SuggestMeNewREButtoncss:hover {
+	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #f6f6f6), color-stop(1, #ffffff));
+	background:-moz-linear-gradient(top, #f6f6f6 5%, #ffffff 100%);
+	background:-webkit-linear-gradient(top, #f6f6f6 5%, #ffffff 100%);
+	background:-o-linear-gradient(top, #f6f6f6 5%, #ffffff 100%);
+	background:-ms-linear-gradient(top, #f6f6f6 5%, #ffffff 100%);
+	background:linear-gradient(to bottom, #f6f6f6 5%, #ffffff 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#f6f6f6', endColorstr='#ffffff',GradientType=0);
+	background-color:#f6f6f6;
+}
+.SuggestMeNewREButtoncss:active {
+	position:relative;
+	top:1px;
+}
+
+
+#tablediv2sugg {
+    background-color:white;
+    width: 900px;
+}
+
+#realestatedetails2sugg {
+    background-color: #3b3a30;
+    height: 290px;
+    width: 1180px;
+    border-style: double;
+    border-color: white;
+    border-radius: 8px;
+    margin-left: 55px;
+}
+
+#img222sugg {
+    margin-left: 108px;
+    margin-top: -102px;
+}
+
+#img333sugg {
+    margin-left: 215px;
+    margin-top: -105px;
+}
+
+#img444sugg {
+    margin-left: 324px;
+    margin-top: -105px;
+}
+
+#img555sugg {
+    margin-top: 30px;
+}
+
+#img666sugg {
+    margin-top: -104px;
+    margin-left: 109px;
+}
+
+#img777sugg {
+    margin-top: -104px;
+    margin-left: 217px;
+}
+
+#img888sugg {
+    margin-top: -104px;
+    margin-left: 325px;
+}
+
+#cat2sugg {
+    color: pink;
+    margin-left: 650px;
+    margin-top: -230px;
+    font-size: 30px;
+    font-family: Algerian;
+    color: 	white;
+}
+
+#stat2sugg {
+    font-size: 22px;
+    font-family: 'Arno Pro Display';
+    color: white;
+    margin-left: 450px;
+}
+
+#agentname2sugg {
+    font-size: 22px;
+    font-family: 'Arno Pro Display';
+    color: white;
+    margin-left: 450px;
+}
+
+#descr2sugg {
+    font-size: 22px;
+    font-family: 'Arno Pro Display';
+    color: white;
+    margin-left: 450px;
+}
+
+#noofrooms2sugg {
+    font-size: 22px;
+    font-family: 'Arno Pro Display';
+    color: white;
+    margin-left: 450px;
+}
+
+#area2sugg {
+    font-size: 22px;
+    font-family: 'Arno Pro Display';
+    color: white;
+    margin-left: 450px;
+}
+
+#streetaddress2sugg {
+    font-size: 22px;
+    font-family: 'Arno Pro Display';
+    color: white;
+    margin-left: 900px;
+    margin-top: -120px;
+}
+
+#city2sugg {
+    font-size: 22px;
+    font-family: 'Arno Pro Display';
+    color: white;
+    margin-left: 900px;
+}
+
+#pri2sugg {
+    font-size: 22px;
+    font-family: 'Arno Pro Display';
+    color: white;
+    margin-left: 900px;
+}
+
+#curr2sugg {
+    font-size: 22px;
+    font-family: 'Arno Pro Display';
+    color: white;
+    margin-left: 900px;
+}
+
+#ownername2sugg {
+    font-size: 22px;
+    font-family: 'Arno Pro Display';
+    color: white;
+    margin-left: 900px;
+}
+
+#contactphone2sugg {
+    font-size: 22px;
+    font-family: 'Arno Pro Display';
+    color: white;
+    margin-left: 900px;
+}
+
+#blankspacesugg {
+    background: white;
+    height: 12px;
+}
+
+.NoapartmentsButtoncss {
+    -moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	box-shadow:inset 0px 1px 0px 0px #ffffff;
+	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #ffffff), color-stop(1, #f6f6f6));
+	background:-moz-linear-gradient(top, #ffffff 5%, #f6f6f6 100%);
+	background:-webkit-linear-gradient(top, #ffffff 5%, #f6f6f6 100%);
+	background:-o-linear-gradient(top, #ffffff 5%, #f6f6f6 100%);
+	background:-ms-linear-gradient(top, #ffffff 5%, #f6f6f6 100%);
+	background:linear-gradient(to bottom, #ffffff 5%, #f6f6f6 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffff', endColorstr='#f6f6f6',GradientType=0);
+	background-color:#ffffff;
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+	border-radius:6px;
+	border:1px solid #dcdcdc;
+    border-style: dashed;
+    border-color: orange;
+	display:inline-block;
+	cursor:pointer;
+	color:#666666;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:6px 24px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #ffffff;
+}
+.NoapartmentsButtoncss:hover {
+	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #f6f6f6), color-stop(1, #ffffff));
+	background:-moz-linear-gradient(top, #f6f6f6 5%, #ffffff 100%);
+	background:-webkit-linear-gradient(top, #f6f6f6 5%, #ffffff 100%);
+	background:-o-linear-gradient(top, #f6f6f6 5%, #ffffff 100%);
+	background:-ms-linear-gradient(top, #f6f6f6 5%, #ffffff 100%);
+	background:linear-gradient(to bottom, #f6f6f6 5%, #ffffff 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#f6f6f6', endColorstr='#ffffff',GradientType=0);
+	background-color:#f6f6f6;
+}
+.NoapartmentsButtoncss:active {
+	position:relative;
+	top:1px;
+}
+
+
+.NohousesButtoncss {
+    -moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	box-shadow:inset 0px 1px 0px 0px #ffffff;
+	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #ffffff), color-stop(1, #f6f6f6));
+	background:-moz-linear-gradient(top, #ffffff 5%, #f6f6f6 100%);
+	background:-webkit-linear-gradient(top, #ffffff 5%, #f6f6f6 100%);
+	background:-o-linear-gradient(top, #ffffff 5%, #f6f6f6 100%);
+	background:-ms-linear-gradient(top, #ffffff 5%, #f6f6f6 100%);
+	background:linear-gradient(to bottom, #ffffff 5%, #f6f6f6 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffff', endColorstr='#f6f6f6',GradientType=0);
+	background-color:#ffffff;
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+	border-radius:6px;
+	border:1px solid #dcdcdc;
+    border-style: dashed;
+    border-color: green;
+	display:inline-block;
+	cursor:pointer;
+	color:#666666;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:6px 24px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #ffffff;
+}
+.NohousesButtoncss:hover {
+	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #f6f6f6), color-stop(1, #ffffff));
+	background:-moz-linear-gradient(top, #f6f6f6 5%, #ffffff 100%);
+	background:-webkit-linear-gradient(top, #f6f6f6 5%, #ffffff 100%);
+	background:-o-linear-gradient(top, #f6f6f6 5%, #ffffff 100%);
+	background:-ms-linear-gradient(top, #f6f6f6 5%, #ffffff 100%);
+	background:linear-gradient(to bottom, #f6f6f6 5%, #ffffff 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#f6f6f6', endColorstr='#ffffff',GradientType=0);
+	background-color:#f6f6f6;
+}
+.NohousesButtoncss:active {
+	position:relative;
+	top:1px;
+}
+
+.NoofficesButtoncss {
+    -moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	box-shadow:inset 0px 1px 0px 0px #ffffff;
+	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #ffffff), color-stop(1, #f6f6f6));
+	background:-moz-linear-gradient(top, #ffffff 5%, #f6f6f6 100%);
+	background:-webkit-linear-gradient(top, #ffffff 5%, #f6f6f6 100%);
+	background:-o-linear-gradient(top, #ffffff 5%, #f6f6f6 100%);
+	background:-ms-linear-gradient(top, #ffffff 5%, #f6f6f6 100%);
+	background:linear-gradient(to bottom, #ffffff 5%, #f6f6f6 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffff', endColorstr='#f6f6f6',GradientType=0);
+	background-color:#ffffff;
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+	border-radius:6px;
+	border:1px solid #dcdcdc;
+    border-style: dashed;
+    border-color: gray;
+	display:inline-block;
+	cursor:pointer;
+	color:#666666;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:6px 24px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #ffffff;
+}
+.NoofficesButtoncss:hover {
+	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #f6f6f6), color-stop(1, #ffffff));
+	background:-moz-linear-gradient(top, #f6f6f6 5%, #ffffff 100%);
+	background:-webkit-linear-gradient(top, #f6f6f6 5%, #ffffff 100%);
+	background:-o-linear-gradient(top, #f6f6f6 5%, #ffffff 100%);
+	background:-ms-linear-gradient(top, #f6f6f6 5%, #ffffff 100%);
+	background:linear-gradient(to bottom, #f6f6f6 5%, #ffffff 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#f6f6f6', endColorstr='#ffffff',GradientType=0);
+	background-color:#f6f6f6;
+}
+.NoofficesButtoncss:active {
+	position:relative;
+	top:1px;
+}
+
+.NocamptrailersButtoncss {
+    -moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	box-shadow:inset 0px 1px 0px 0px #ffffff;
+	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #ffffff), color-stop(1, #f6f6f6));
+	background:-moz-linear-gradient(top, #ffffff 5%, #f6f6f6 100%);
+	background:-webkit-linear-gradient(top, #ffffff 5%, #f6f6f6 100%);
+	background:-o-linear-gradient(top, #ffffff 5%, #f6f6f6 100%);
+	background:-ms-linear-gradient(top, #ffffff 5%, #f6f6f6 100%);
+	background:linear-gradient(to bottom, #ffffff 5%, #f6f6f6 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffff', endColorstr='#f6f6f6',GradientType=0);
+	background-color:#ffffff;
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+	border-radius:6px;
+	border:1px solid #dcdcdc;
+    border-style: dashed;
+    border-color: blue;
+	display:inline-block;
+	cursor:pointer;
+	color:#666666;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:6px 24px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #ffffff;
+}
+.NocamptrailersButtoncss:hover {
+	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #f6f6f6), color-stop(1, #ffffff));
+	background:-moz-linear-gradient(top, #f6f6f6 5%, #ffffff 100%);
+	background:-webkit-linear-gradient(top, #f6f6f6 5%, #ffffff 100%);
+	background:-o-linear-gradient(top, #f6f6f6 5%, #ffffff 100%);
+	background:-ms-linear-gradient(top, #f6f6f6 5%, #ffffff 100%);
+	background:linear-gradient(to bottom, #f6f6f6 5%, #ffffff 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#f6f6f6', endColorstr='#ffffff',GradientType=0);
+	background-color:#f6f6f6;
+}
+.NocamptrailersButtoncss:active {
+	position:relative;
+	top:1px;
+}
+
+
+.NobungalowsButtoncss {
+    -moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	box-shadow:inset 0px 1px 0px 0px #ffffff;
+	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #ffffff), color-stop(1, #f6f6f6));
+	background:-moz-linear-gradient(top, #ffffff 5%, #f6f6f6 100%);
+	background:-webkit-linear-gradient(top, #ffffff 5%, #f6f6f6 100%);
+	background:-o-linear-gradient(top, #ffffff 5%, #f6f6f6 100%);
+	background:-ms-linear-gradient(top, #ffffff 5%, #f6f6f6 100%);
+	background:linear-gradient(to bottom, #ffffff 5%, #f6f6f6 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffff', endColorstr='#f6f6f6',GradientType=0);
+	background-color:#ffffff;
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+	border-radius:6px;
+	border:1px solid #dcdcdc;
+    border-style: dashed;
+    border-color: red;
+	display:inline-block;
+	cursor:pointer;
+	color:#666666;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:6px 24px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #ffffff;
+}
+.NobungalowsButtoncss:hover {
+	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #f6f6f6), color-stop(1, #ffffff));
+	background:-moz-linear-gradient(top, #f6f6f6 5%, #ffffff 100%);
+	background:-webkit-linear-gradient(top, #f6f6f6 5%, #ffffff 100%);
+	background:-o-linear-gradient(top, #f6f6f6 5%, #ffffff 100%);
+	background:-ms-linear-gradient(top, #f6f6f6 5%, #ffffff 100%);
+	background:linear-gradient(to bottom, #f6f6f6 5%, #ffffff 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#f6f6f6', endColorstr='#ffffff',GradientType=0);
+	background-color:#f6f6f6;
+}
+.NobungalowsButtoncss:active {
+	position:relative;
+	top:1px;
+}
+
+#NotinterestedanymoreLinkButtondiv {
+    margin-left: 560px;
+    border-color: white;
+    border-style:dashed;
+    width: 173px;
+    height: 40px;
+    border-radius: 12px;
+    text-align: center;
+}
+
+.NotinterestedanymoreLinkButtoncss {
+    color: white;
+    font-size: 25px;
+    
+}
+
+#probno {
+    height: 300px;
+    width: 680px;
+    background-color: pink;
+    margin-left: 550px;
+    margin-top: -340px;
+}
+
+#dvediv {
+    height: 360px;
+}
+
+#probno2 {
+    height: 530px;
+}
+
+#slika2div {
+    height: 470px;
+    width: 350px;
+    background-color: pink;
+    margin-left: 870px;
+    margin-top: -430px;
+}
+
+#ssrealestatedetails2 {
+    background-color: #3b3a30;
+    height: 290px;
+    width: 1180px;
+    border-style: double;
+    border-color: white;
+    border-radius: 8px;
+    margin-left: 55px;
+}
+
+#sstablediv2{
+    background-color:white;
+    width: 900px;
+}
+
+#ssimgggg {
+
+}
+
+#ssimg222 {
+    margin-left: 108px;
+    margin-top: -104px;
+}
+
+#ssimg333 {
+    margin-left: 215px;
+    margin-top: -104px;
+}
+
+#ssimg444 {
+    margin-left: 324px;
+    margin-top: -104px;
+}
+
+#ssimg555 {
+    margin-top: 30px;
+}
+
+#ssimg666 {
+    margin-top: -104px;
+    margin-left: 109px;
+}
+
+#ssimg777 {
+    margin-top: -104px;
+    margin-left: 217px;
+}
+
+#ssimg888 {
+    margin-top: -104px;
+    margin-left: 325px;
+}
+
+#sscat2 {
+    color: pink;
+    margin-left: 650px;
+    margin-top: -230px;
+    font-size: 30px;
+    font-family: Algerian;
+    color: 	white;
+}
+
+#ssstat2 {
+    font-size: 22px;
+    font-family: 'Arno Pro Display';
+    color: white;
+    margin-left: 450px;
+}
+
+#ssagentname2 {
+    font-size: 22px;
+    font-family: 'Arno Pro Display';
+    color: white;
+    margin-left: 450px;
+}
+
+#ssdescr2 {
+    font-size: 22px;
+    font-family: 'Arno Pro Display';
+    color: white;
+    margin-left: 450px;
+}
+
+#ssnoofrooms2 {
+    font-size: 22px;
+    font-family: 'Arno Pro Display';
+    color: white;
+    margin-left: 450px;
+}
+
+#ssarea2 {
+    font-size: 22px;
+    font-family: 'Arno Pro Display';
+    color: white;
+    margin-left: 450px;
+}
+
+#ssstreetaddress2 {
+    font-size: 22px;
+    font-family: 'Arno Pro Display';
+    color: white;
+    margin-left: 900px;
+    margin-top: -120px;
+}
+
+#sscity2 {
+    font-size: 22px;
+    font-family: 'Arno Pro Display';
+    color: white;
+    margin-left: 900px;
+}
+
+#sspri2 {
+    font-size: 22px;
+    font-family: 'Arno Pro Display';
+    color: white;
+    margin-left: 900px;
+}
+
+#sscurr2 {
+    font-size: 22px;
+    font-family: 'Arno Pro Display';
+    color: white;
+    margin-left: 900px;
+}
+
+#ssownername2 {
+    font-size: 22px;
+    font-family: 'Arno Pro Display';
+    color: white;
+    margin-left: 900px;
+}
+
+#sscontactphone2 {
+    font-size: 22px;
+    font-family: 'Arno Pro Display';
+    color: white;
+    margin-left: 900px;
+}
+
+#ssblankspace {
+    background: white;
+    height: 12px;
+}
+
+.CityyLabelcss {
+    font-size: 20px;
+}
+
+.CategoryyLabelcss {
+    font-size: 20px;
+}
+
+.LoadspecificsuggButtoncss {
+    font-size: 20px;
+    background-color: white;
+    border-style: double;
+    border-color: black;
+    border-radius: 9px;
+}
+
+.CategoryyDropDownListcss {
+    border-style: double;
+    border-color: black;
+    font-size: 15px;
+}
+
+.CityyDropDownListcss {
+    border-style: double;
+    border-color: black;
+    font-size: 15px;
+}

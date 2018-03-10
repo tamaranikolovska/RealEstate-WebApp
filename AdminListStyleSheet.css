@@ -1,0 +1,385 @@
+﻿#cat1 {
+    color: pink;
+    margin-left: 650px;
+    margin-top: -260px;
+    font-size: 30px;
+    font-family: Algerian;
+    color: 	white;
+}
+
+#stat1 {
+    font-size: 22px;
+    font-family: 'Arno Pro Display';
+    color: white;
+    margin-left: 450px;
+}
+
+#agentname1 {
+    font-size: 22px;
+    font-family: 'Arno Pro Display';
+    color: white;
+    margin-left: 450px;
+}
+
+#descr1 {
+    font-size: 22px;
+    font-family: 'Arno Pro Display';
+    color: white;
+    margin-left: 450px;
+    width: 280px;
+}
+
+#noofrooms1 {
+    font-size: 22px;
+    font-family: 'Arno Pro Display';
+    color: white;
+    margin-left: 450px;
+}
+
+#area1 {
+    font-size: 22px;
+    font-family: 'Arno Pro Display';
+    color: white;
+    margin-left: 450px;
+}
+
+#streetaddress1 {
+    font-size: 22px;
+    font-family: 'Arno Pro Display';
+    color: white;
+    margin-left: 900px;
+    margin-top: -120px;
+}
+
+#city1 {
+    font-size: 22px;
+    font-family: 'Arno Pro Display';
+    color: white;
+    margin-left: 900px;
+}
+
+#pri1 {
+    font-size: 22px;
+    font-family: 'Arno Pro Display';
+    color: white;
+    margin-left: 900px;
+}
+
+#curr1 {
+    font-size: 22px;
+    font-family: 'Arno Pro Display';
+    color: white;
+    margin-left: 900px;
+}
+
+#ownername1 {
+    font-size: 22px;
+    font-family: 'Arno Pro Display';
+    color: white;
+    margin-left: 900px;
+}
+
+#contactphone1 {
+    font-size: 22px;
+    font-family: 'Arno Pro Display';
+    color: white;
+    margin-left: 900px;
+}
+
+#approvelinkbtndiv {
+    margin-left: 550px;
+    margin-top: -20px;
+    height: 24px;
+    width: 85px;
+    border: 0;
+    background: #3b3a30;
+    border-radius: 4px;
+    box-shadow: 0 5px 0 white;
+    color: white;
+    cursor: pointer;
+    outline: 0;
+    transition: all .1s linear;
+    color: white;
+    font-family: 'Arno Pro Display';
+    font-size: 23px;
+    text-align:center;
+}
+
+#approvelinkbtndiv:active {
+    box-shadow: 0 2px 0 white;
+    transform: translateY(3px);
+}
+
+#denydiv {
+    margin-left: 750px;
+    margin-top: -25px;
+    height: 24px;
+    width: 85px;
+    border: 0;
+    background: #3b3a30;
+    border-radius: 4px;
+    box-shadow: 0 5px 0 white;
+    color: white;
+    cursor: pointer;
+    outline: 0;
+    transition: all .1s linear;
+    color: white;
+    font-family: 'Arno Pro Display';
+    font-size: 23px;
+    text-align:center;
+}
+
+#denydiv:active {
+    box-shadow: 0 2px 0 white;
+    transform: translateY(3px);
+}
+
+#realestatedetails1 {
+    background-color: #3b3a30;
+    height: 290px;
+    width: 1180px;
+    border-style: double;
+    border-color: #0000FF;
+    border-radius: 8px;
+    margin-left: 55px;
+}
+
+#tablediv1 {
+    background-color: white;
+}
+
+#img22 {
+    margin-left: 108px;
+    margin-top: -105px;
+}
+
+#img33 {
+    margin-left: 215px;
+    margin-top: -105px;
+}
+
+#img44 {
+    margin-left: 324px;
+    margin-top: -105px;
+}
+#img55 {
+    margin-top: 60px;
+}
+
+#img66 {
+    margin-top: -105px;
+    margin-left: 109px;
+}
+
+#img77 {
+    margin-top: -105px;
+    margin-left: 217px;
+}
+
+#img88 {
+    margin-top: -105px;
+    margin-left: 325px;
+}
+
+.approvelinkbtnn {
+    color: white;
+}
+
+.denylinkbtnn {
+    color: white;
+}
+
+.adminsendmessagess {
+    width: 620px;
+    margin-left: 10px;
+    border-color: #4ABDAC;
+    border-style: double;
+    background-color: #c5d5c5;
+}
+
+#adminreceivedmessages {
+    width: 620px;
+    margin-left: 650px;
+    border-color: #3b3a30;
+    border-style: double;
+    background: #b2c2bf;
+    margin-top: -160px;
+}
+
+#adminsendmessage {
+     border-color: #3b3a30;
+     border-style: double;
+     width: 500px;
+     margin-left: 400px;
+     margin-bottom: 40px;
+     background: #9fa9a3;
+}
+
+.adminFromLabelcss {
+    font-size: 25px;
+}
+
+#realestatedetails5 {
+    border-style: dashed;
+    border-color: #808080;
+    width: 500px;
+    margin-left: 50px;
+    margin-top: 20px;
+    background: #F8F8FF;
+}
+
+
+#blankspace5 {
+    background: #E6E6FA;
+}
+
+#senderr5 {
+    font-size: 20px;
+}
+
+#receiverr5 {
+    margin-left: 240px;
+    margin-top: -25px;
+    font-size: 20px;
+}
+
+#subjecttt5 {
+    font-size: 20px;
+    margin-top: 12px;
+    margin-left: 110px;
+}
+
+#contentt5 {
+    font-size: 16px;
+    margin-top: 20px;
+}
+
+#deletemessage5 {
+     margin-left: 420px;
+}
+
+.adminsendernamee {
+    font-size: 20px;
+}
+
+.adminToLabelcss {
+    font-size: 25px;
+}
+
+.adminMessagesubjectLabelcss {
+    font-size: 25px;
+}
+
+.adminPickReceiverDropDownListtt {
+    font-size: 20px;
+}
+
+.adminTextBox100 {
+    font-size: 20px;
+}
+
+.adminSendMessageButtonnn {
+    margin-left: -25px;
+    background-color: transparent;
+    border-style: double;
+    border-color: #3b3a30;
+    font-size: 30px;
+}
+
+#adminMessageContent {
+    width: 150px;
+}
+
+#realestatedetails445 {
+    border-style: dashed;
+    border-color: #3b3a30;
+    width: 500px;
+    margin-left: 50px;
+    margin-top: 20px;
+    background: #F8F8FF;
+}
+
+#blankspace445 {
+    background: #E6E6FA;
+}
+
+#adminreceivedmessages {
+    background: #E6E6FA;
+}
+
+#senderr45 {
+    font-size: 20px;
+}
+
+#receiverr45 {
+    margin-left: 240px;
+    margin-top: -25px;
+    font-size: 20px;
+}
+
+#subjecttt45 {
+    font-size: 20px;
+    margin-top: 12px;
+    margin-left: 110px;
+}
+
+#contentt45 {
+    font-size: 16px;
+    margin-top: 20px;
+}
+
+#deletemessage45 {
+     margin-left: 420px;
+}
+
+#adminmenudiv {
+    background-color: #3b3a30;
+    width: 1328px;
+    height: 45px;
+}
+
+.HomeFromAdminButtoncss {
+    width: 80px;
+    height: 38px;
+    margin-top: 5px;
+    color: white;
+    border-color: white;
+    border-style: double;
+    background-color: transparent;
+    margin-left: 5px;
+}
+
+.ListofUnapprovedpublishButtonAdmincss {
+    width: 180px;
+    height: 38px;
+    margin-top: 5px;
+    color: white;
+    border-color: white;
+    border-style: double;
+    background-color: transparent;
+    margin-left: 5px;
+}
+
+.MessagesButtonAdmincss {
+    width: 80px;
+    height: 38px;
+    margin-top: 5px;
+    color: white;
+    border-color: white;
+    border-style: double;
+    background-color: transparent;
+    margin-left: 5px;
+}
+
+.LogoutFromAdminButtoncss {
+    width: 80px;
+    height: 38px;
+    margin-top: 5px;
+    color: white;
+    border-color: white;
+    border-style: double;
+    background-color: transparent;
+    margin-left: 80px;
+}
+
+

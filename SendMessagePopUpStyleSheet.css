@@ -1,0 +1,39 @@
+﻿
+.sendernamee10 {
+    font-size: 20px;
+}
+
+.PickReceiverDropDownListtt10 {
+    font-size: 20px;
+}
+
+.TextBox10010 {
+    font-size: 20px;
+}
+
+.SendMessageButtonnn10 {
+    margin-left: 30px;
+}
+
+#MessageContent10 {
+    width: 450px;
+    height: 100px;
+}
+
+.SendMessageButtonnn10 {
+    margin-left: 30px;
+}
+
+#sendmessagefrompopup {
+    border-color: #F7B733;
+    border-style: double;
+    width: 550px;
+    height: 500px;
+    margin-bottom: 40px;
+    background: #FFFACD;
+}
+
+#MessageSuccessfullySendLabel {
+    color: green;
+    font-size: 30px;
+}

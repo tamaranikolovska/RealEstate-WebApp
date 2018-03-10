@@ -1,0 +1,367 @@
+﻿#cat3 {
+    color: pink;
+    margin-left: 650px;
+    margin-top: -260px;
+    font-size: 30px;
+    font-family: Algerian;
+    color: 	white;
+}
+
+#stat3 {
+    font-size: 22px;
+    font-family: 'Arno Pro Display';
+    color: white;
+    margin-left: 450px;
+}
+
+#agentname3 {
+    font-size: 22px;
+    font-family: 'Arno Pro Display';
+    color: white;
+    margin-left: 450px;
+}
+
+#descr3 {
+    font-size: 22px;
+    font-family: 'Arno Pro Display';
+    color: white;
+    margin-left: 450px;
+    width: 280px;
+}
+
+#noofrooms3 {
+    font-size: 22px;
+    font-family: 'Arno Pro Display';
+    color: white;
+    margin-left: 450px;
+}
+
+#area3 {
+    font-size: 22px;
+    font-family: 'Arno Pro Display';
+    color: white;
+    margin-left: 450px;
+}
+
+#streetaddress3 {
+    font-size: 22px;
+    font-family: 'Arno Pro Display';
+    color: white;
+    margin-left: 900px;
+    margin-top: -120px;
+}
+
+#city3 {
+    font-size: 22px;
+    font-family: 'Arno Pro Display';
+    color: white;
+    margin-left: 900px;
+}
+
+#pri3 {
+    font-size: 22px;
+    font-family: 'Arno Pro Display';
+    color: white;
+    margin-left: 900px;
+}
+
+#curr3 {
+    font-size: 22px;
+    font-family: 'Arno Pro Display';
+    color: white;
+    margin-left: 900px;
+}
+
+#ownername3 {
+    font-size: 22px;
+    font-family: 'Arno Pro Display';
+    color: white;
+    margin-left: 900px;
+}
+
+#contactphone3 {
+    font-size: 22px;
+    font-family: 'Arno Pro Display';
+    color: white;
+    margin-left: 900px;
+}
+
+#solvedlinkbtndiv {
+    margin-left: 750px;
+    margin-top: -25px;
+    height: 24px;
+    width: 85px;
+    border: 0;
+    background: #3b3a30;
+    border-radius: 4px;
+    box-shadow: 0 5px 0 white;
+    color: white;
+    cursor: pointer;
+    outline: 0;
+    transition: all .1s linear;
+    color: white;
+    font-family: 'Arno Pro Display';
+    font-size: 23px;
+    text-align:center;
+}
+
+#solvedlinkbtndiv:active {
+    box-shadow: 0 2px 0 white;
+    transform: translateY(3px);
+}
+
+#realestatedetails3 {
+    background-color: #3b3a30;
+    height: 290px;
+    width: 1180px;
+    border-style: double;
+    border-color: #0000FF;
+    border-radius: 8px;
+    margin-left: 55px;
+}
+
+#tablediv3 {
+    background-color: white;
+}
+
+#img2222 {
+    margin-left: 108px;
+    margin-top: -105px;
+}
+
+#img3333 {
+    margin-left: 215px;
+    margin-top: -105px;
+}
+
+#img4444 {
+    margin-left: 324px;
+    margin-top: -105px;
+}
+#img5555 {
+    margin-top: 60px;
+}
+
+#img6666 {
+    margin-top: -105px;
+    margin-left: 109px;
+}
+
+#img7777 {
+    margin-top: -105px;
+    margin-left: 217px;
+}
+
+#img8888 {
+    margin-top: -105px;
+    margin-left: 325px;
+}
+
+.solvedlinkbtnn {
+    color: white;
+}
+
+.agentsendmessagess {
+    width: 620px;
+    margin-left: 10px;
+    border-color: #4ABDAC;
+    border-style: double;
+    background-color: #c5d5c5;
+}
+
+#agentreceivedmessages {
+    width: 620px;
+    margin-left: 650px;
+    border-color: #3b3a30;
+    border-style: double;
+    background: #b2c2bf;
+    margin-top: -150px;
+}
+
+#agentsendmessage {
+     border-color: #3b3a30;
+     border-style: double;
+     width: 500px;
+     margin-left: 400px;
+     margin-bottom: 40px;
+     background: #9fa9a3;
+}
+
+.agentToLabelcss {
+    font-size: 25px;
+}
+
+.agentFromLabelcss {
+    font-size: 25px;
+}
+
+.agentPickReceiverDropDownListtt {
+    font-size: 20px;
+}
+
+.agentMessagesubjectLabelcss {
+    font-size: 25px;
+}
+
+.agentTextBox100 {
+    font-size: 20px;
+}
+
+.agentSendMessageButtonnn {
+    margin-left: -25px;
+    background-color: transparent;
+    border-style: double;
+    border-color: #3b3a30;
+    font-size: 30px;
+}
+
+#realestatedetails6 {
+    border-style: dashed;
+    border-color: #808080;
+    width: 500px;
+    margin-left: 50px;
+    margin-top: 20px;
+    background: #F8F8FF;
+}
+
+
+#blankspace6 {
+    background: #E6E6FA;
+}
+
+#senderr6 {
+    font-size: 20px;
+}
+
+#receiverr6 {
+    margin-left: 240px;
+    margin-top: -25px;
+    font-size: 20px;
+}
+
+#subjecttt6 {
+    font-size: 20px;
+    margin-top: 12px;
+    margin-left: 110px;
+}
+
+#contentt6 {
+    font-size: 16px;
+    margin-top: 20px;
+}
+
+#deletemessage6 {
+     margin-left: 420px;
+}
+
+.agentsendernamee {
+    font-size: 20px;
+}
+
+.agentPickReceiverDropDownListtt {
+    font-size: 20px;
+}
+
+.agentTextBox100 {
+    font-size: 20px;
+}
+
+.agentSendMessageButtonnn {
+    margin-left: 30px;
+}
+
+#agentMessageContent {
+    width: 150px;
+}
+
+#realestatedetails66 {
+    border-style: dashed;
+    border-color: #3b3a30;
+    width: 500px;
+    margin-left: 50px;
+    margin-top: 20px;
+    background: #F8F8FF;
+}
+
+#blankspace66 {
+    background: #E6E6FA;
+}
+
+#agentreceivedmessages {
+    background: #E6E6FA;
+}
+
+#senderr66 {
+    font-size: 20px;
+}
+
+#receiverr66 {
+    margin-left: 240px;
+    margin-top: -25px;
+    font-size: 20px;
+}
+
+#subjecttt66 {
+    font-size: 20px;
+    margin-top: 12px;
+    margin-left: 110px;
+}
+
+#contentt66 {
+    font-size: 16px;
+    margin-top: 20px;
+}
+
+#deletemessage66 {
+     margin-left: 420px;
+}
+
+#agentmanudiv {
+    background-color: #3b3a30;
+    width: 1328px;
+    height: 45px;
+}
+
+.HomeFromAgentButtoncss {
+    width: 80px;
+    height: 38px;
+    margin-top: 5px;
+    color: white;
+    border-color: white;
+    border-style: double;
+    background-color: transparent;
+    margin-left: 5px;
+}
+
+.ListOfMyRealEstatesButtonAgentcss {
+    width: 180px;
+    height: 38px;
+    margin-top: 5px;
+    color: white;
+    border-color: white;
+    border-style: double;
+    background-color: transparent;
+    margin-left: 5px;
+}
+
+.MessagesButtonAgentcss {
+    width: 80px;
+    height: 38px;
+    margin-top: 5px;
+    color: white;
+    border-color: white;
+    border-style: double;
+    background-color: transparent;
+    margin-left: 5px;
+}
+
+.LogoutFromAgentButtoncss {
+    width: 80px;
+    height: 38px;
+    margin-top: 5px;
+    color: white;
+    border-color: white;
+    border-style: double;
+    background-color: transparent;
+    margin-left: 5px;
+}
