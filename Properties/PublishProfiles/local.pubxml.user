@@ -1,0 +1,362 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <LastUsedBuildConfiguration>Release</LastUsedBuildConfiguration>
+    <LastUsedPlatform>Any CPU</LastUsedPlatform>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="AboutUs.aspx">
+      <publishTime>08/23/2017 20:44:08</publishTime>
+    </File>
+    <File Include="AboutUsStyleSheet.css">
+      <publishTime>08/23/2017 20:43:16</publishTime>
+    </File>
+    <File Include="Administrator.aspx">
+      <publishTime>09/10/2017 08:20:27</publishTime>
+    </File>
+    <File Include="AdminListStyleSheet.css">
+      <publishTime>09/10/2017 15:43:06</publishTime>
+    </File>
+    <File Include="Agent.aspx">
+      <publishTime>09/10/2017 15:45:58</publishTime>
+    </File>
+    <File Include="AgentsPublishesStyleSheet.css">
+      <publishTime>09/10/2017 15:45:56</publishTime>
+    </File>
+    <File Include="Balloon.css">
+      <publishTime>04/09/2017 13:48:46</publishTime>
+    </File>
+    <File Include="bin/WebApplication1.dll">
+      <publishTime>09/10/2017 15:47:31</publishTime>
+    </File>
+    <File Include="ContactUs.aspx">
+      <publishTime>08/23/2017 21:28:57</publishTime>
+    </File>
+    <File Include="ContactUsStyleSheet.css">
+      <publishTime>08/23/2017 21:29:41</publishTime>
+    </File>
+    <File Include="Home.aspx">
+      <publishTime>08/23/2017 20:16:11</publishTime>
+    </File>
+    <File Include="homeslideshowimages/aboutusimage.jpg">
+      <publishTime>08/23/2017 20:26:18</publishTime>
+    </File>
+    <File Include="homeslideshowimages/five.jpg">
+      <publishTime>06/16/2017 13:56:04</publishTime>
+    </File>
+    <File Include="homeslideshowimages/four.jpg">
+      <publishTime>06/16/2017 13:56:04</publishTime>
+    </File>
+    <File Include="homeslideshowimages/image1.jpg">
+      <publishTime>08/23/2017 19:43:41</publishTime>
+    </File>
+    <File Include="homeslideshowimages/image2.png">
+      <publishTime>08/23/2017 19:55:46</publishTime>
+    </File>
+    <File Include="homeslideshowimages/one.jpg">
+      <publishTime>06/16/2017 13:56:04</publishTime>
+    </File>
+    <File Include="homeslideshowimages/six.jpg">
+      <publishTime>06/16/2017 13:56:04</publishTime>
+    </File>
+    <File Include="homeslideshowimages/three.jpg">
+      <publishTime>06/16/2017 13:56:04</publishTime>
+    </File>
+    <File Include="homeslideshowimages/two.jpg">
+      <publishTime>06/16/2017 13:56:04</publishTime>
+    </File>
+    <File Include="HomeStyleSheet.css">
+      <publishTime>08/09/2017 15:36:44</publishTime>
+    </File>
+    <File Include="homestylesheet1.css">
+      <publishTime>05/10/2017 11:44:51</publishTime>
+    </File>
+    <File Include="images/a.jpg">
+      <publishTime>05/07/2017 12:41:25</publishTime>
+    </File>
+    <File Include="images/aa.jpg">
+      <publishTime>05/07/2017 12:41:25</publishTime>
+    </File>
+    <File Include="images/aaa.jpg">
+      <publishTime>05/07/2017 12:41:25</publishTime>
+    </File>
+    <File Include="images/b.jpg">
+      <publishTime>05/07/2017 12:41:25</publishTime>
+    </File>
+    <File Include="images/bb.jpg">
+      <publishTime>05/07/2017 12:41:25</publishTime>
+    </File>
+    <File Include="images/bbb.jpg">
+      <publishTime>05/07/2017 12:41:25</publishTime>
+    </File>
+    <File Include="images/c.jpg">
+      <publishTime>05/07/2017 12:41:25</publishTime>
+    </File>
+    <File Include="images/cc.jpg">
+      <publishTime>05/07/2017 12:41:25</publishTime>
+    </File>
+    <File Include="images/ccc.jpg">
+      <publishTime>05/07/2017 12:41:25</publishTime>
+    </File>
+    <File Include="images/d.jpg">
+      <publishTime>05/07/2017 12:41:25</publishTime>
+    </File>
+    <File Include="images/dd.jpg">
+      <publishTime>05/07/2017 12:41:25</publishTime>
+    </File>
+    <File Include="images/ddd.jpg">
+      <publishTime>05/07/2017 12:41:25</publishTime>
+    </File>
+    <File Include="images/e.jpg">
+      <publishTime>05/07/2017 12:41:25</publishTime>
+    </File>
+    <File Include="images/ee.jpg">
+      <publishTime>05/07/2017 12:41:25</publishTime>
+    </File>
+    <File Include="images/eee.jpg">
+      <publishTime>05/07/2017 12:41:25</publishTime>
+    </File>
+    <File Include="images/f.jpg">
+      <publishTime>05/07/2017 12:41:25</publishTime>
+    </File>
+    <File Include="images/ff.jpg">
+      <publishTime>05/07/2017 12:41:25</publishTime>
+    </File>
+    <File Include="images/fff.jpg">
+      <publishTime>05/07/2017 12:41:25</publishTime>
+    </File>
+    <File Include="images/g.jpg">
+      <publishTime>05/07/2017 12:41:25</publishTime>
+    </File>
+    <File Include="images/gg.jpg">
+      <publishTime>05/07/2017 12:41:25</publishTime>
+    </File>
+    <File Include="images/ggg.jpg">
+      <publishTime>05/07/2017 12:41:25</publishTime>
+    </File>
+    <File Include="images/h.jpg">
+      <publishTime>05/07/2017 12:41:25</publishTime>
+    </File>
+    <File Include="images/hh.jpg">
+      <publishTime>05/07/2017 12:41:25</publishTime>
+    </File>
+    <File Include="images/hhh.jpg">
+      <publishTime>05/07/2017 12:41:25</publishTime>
+    </File>
+    <File Include="images/homebackground.jpg">
+      <publishTime>06/15/2017 14:42:43</publishTime>
+    </File>
+    <File Include="images/i.jpg">
+      <publishTime>05/07/2017 12:41:25</publishTime>
+    </File>
+    <File Include="images/ii.jpg">
+      <publishTime>05/07/2017 12:41:25</publishTime>
+    </File>
+    <File Include="images/iii.jpg">
+      <publishTime>05/07/2017 12:41:25</publishTime>
+    </File>
+    <File Include="images/j.jpg">
+      <publishTime>05/07/2017 12:41:25</publishTime>
+    </File>
+    <File Include="images/jj.jpg">
+      <publishTime>05/07/2017 12:41:25</publishTime>
+    </File>
+    <File Include="images/jjj.jpg">
+      <publishTime>05/07/2017 12:41:25</publishTime>
+    </File>
+    <File Include="images/k.jpg">
+      <publishTime>05/07/2017 12:41:25</publishTime>
+    </File>
+    <File Include="images/kk.jpg">
+      <publishTime>05/07/2017 12:41:25</publishTime>
+    </File>
+    <File Include="images/kkk.jpg">
+      <publishTime>05/07/2017 12:41:25</publishTime>
+    </File>
+    <File Include="images/l.jpg">
+      <publishTime>05/07/2017 12:41:25</publishTime>
+    </File>
+    <File Include="images/ll.jpg">
+      <publishTime>05/07/2017 12:41:25</publishTime>
+    </File>
+    <File Include="images/lll.jpg">
+      <publishTime>05/07/2017 12:41:25</publishTime>
+    </File>
+    <File Include="images/loginbackground.jpg">
+      <publishTime>06/19/2017 13:36:29</publishTime>
+    </File>
+    <File Include="images/m.jpg">
+      <publishTime>05/07/2017 12:41:25</publishTime>
+    </File>
+    <File Include="images/mm.jpg">
+      <publishTime>05/07/2017 12:41:25</publishTime>
+    </File>
+    <File Include="images/mmm.jpg">
+      <publishTime>05/07/2017 12:41:25</publishTime>
+    </File>
+    <File Include="images/n.jpg">
+      <publishTime>05/07/2017 12:41:25</publishTime>
+    </File>
+    <File Include="images/nn.jpg">
+      <publishTime>05/07/2017 12:41:25</publishTime>
+    </File>
+    <File Include="images/nnn.jpg">
+      <publishTime>05/07/2017 12:41:25</publishTime>
+    </File>
+    <File Include="images/o.jpg">
+      <publishTime>05/07/2017 12:41:25</publishTime>
+    </File>
+    <File Include="images/oo.jpg">
+      <publishTime>05/07/2017 12:41:25</publishTime>
+    </File>
+    <File Include="images/ooo.jpg">
+      <publishTime>05/07/2017 12:41:25</publishTime>
+    </File>
+    <File Include="images/p.jpg">
+      <publishTime>05/07/2017 12:41:25</publishTime>
+    </File>
+    <File Include="images/pp.jpg">
+      <publishTime>05/07/2017 12:41:26</publishTime>
+    </File>
+    <File Include="images/ppp.jpg">
+      <publishTime>05/07/2017 12:41:26</publishTime>
+    </File>
+    <File Include="images/q.jpg">
+      <publishTime>05/07/2017 12:41:26</publishTime>
+    </File>
+    <File Include="images/qqq.jpg">
+      <publishTime>05/07/2017 12:41:26</publishTime>
+    </File>
+    <File Include="images/r.jpg">
+      <publishTime>05/07/2017 12:41:26</publishTime>
+    </File>
+    <File Include="images/registrationformbackground.jpg">
+      <publishTime>06/19/2017 20:08:47</publishTime>
+    </File>
+    <File Include="images/rrr.jpg">
+      <publishTime>05/07/2017 12:41:26</publishTime>
+    </File>
+    <File Include="images/s.jpg">
+      <publishTime>05/07/2017 12:41:26</publishTime>
+    </File>
+    <File Include="images/sss.jpg">
+      <publishTime>05/07/2017 12:41:26</publishTime>
+    </File>
+    <File Include="images/t.jpg">
+      <publishTime>05/07/2017 12:41:26</publishTime>
+    </File>
+    <File Include="images/ttt.jpg">
+      <publishTime>05/07/2017 12:41:26</publishTime>
+    </File>
+    <File Include="images/u.jpg">
+      <publishTime>05/07/2017 12:41:26</publishTime>
+    </File>
+    <File Include="images/uuu.jpg">
+      <publishTime>05/07/2017 12:41:26</publishTime>
+    </File>
+    <File Include="images/v.jpg">
+      <publishTime>05/07/2017 12:41:26</publishTime>
+    </File>
+    <File Include="images/vvv.jpg">
+      <publishTime>05/07/2017 12:41:26</publishTime>
+    </File>
+    <File Include="images/w.jpg">
+      <publishTime>05/07/2017 12:41:26</publishTime>
+    </File>
+    <File Include="images/websitelogo.png">
+      <publishTime>06/16/2017 13:14:36</publishTime>
+    </File>
+    <File Include="images/wwwwwwww.jpg">
+      <publishTime>05/07/2017 12:41:26</publishTime>
+    </File>
+    <File Include="images/x.jpg">
+      <publishTime>05/07/2017 12:41:26</publishTime>
+    </File>
+    <File Include="images/xxx.jpg">
+      <publishTime>05/07/2017 12:41:26</publishTime>
+    </File>
+    <File Include="images/y.jpg">
+      <publishTime>05/07/2017 12:41:26</publishTime>
+    </File>
+    <File Include="images/yyy.jpg">
+      <publishTime>05/07/2017 12:41:26</publishTime>
+    </File>
+    <File Include="images/z.jpg">
+      <publishTime>05/07/2017 12:41:26</publishTime>
+    </File>
+    <File Include="images/zzz.jpg">
+      <publishTime>05/07/2017 12:41:26</publishTime>
+    </File>
+    <File Include="LogIn.aspx">
+      <publishTime>06/20/2017 12:26:37</publishTime>
+    </File>
+    <File Include="LogInStyleSheet.css">
+      <publishTime>06/19/2017 14:11:51</publishTime>
+    </File>
+    <File Include="RealEstateAllDetails.aspx">
+      <publishTime>06/27/2017 15:32:38</publishTime>
+    </File>
+    <File Include="RealEstateAllDetailStyleSheet.css">
+      <publishTime>06/27/2017 15:31:52</publishTime>
+    </File>
+    <File Include="RealEstateDetails.aspx">
+      <publishTime>05/02/2017 17:10:17</publishTime>
+    </File>
+    <File Include="RegFormStyleSheet.css">
+      <publishTime>06/27/2017 14:23:37</publishTime>
+    </File>
+    <File Include="Registration.aspx">
+      <publishTime>06/20/2017 12:25:48</publishTime>
+    </File>
+    <File Include="RegistrationStyleSheet.css">
+      <publishTime>04/14/2017 12:36:10</publishTime>
+    </File>
+    <File Include="SendMessagePopUp.aspx">
+      <publishTime>06/14/2017 17:34:35</publishTime>
+    </File>
+    <File Include="SendMessagePopUpStyleSheet.css">
+      <publishTime>06/14/2017 17:36:34</publishTime>
+    </File>
+    <File Include="Site1.Master">
+      <publishTime>08/09/2017 14:51:51</publishTime>
+    </File>
+    <File Include="socialmedia/esteticborder.png">
+      <publishTime>08/20/2017 12:52:07</publishTime>
+    </File>
+    <File Include="socialmedia/facebook.png">
+      <publishTime>06/16/2017 16:45:24</publishTime>
+    </File>
+    <File Include="socialmedia/heartLikeButton.png">
+      <publishTime>08/08/2017 12:26:57</publishTime>
+    </File>
+    <File Include="socialmedia/insta.png">
+      <publishTime>06/16/2017 17:21:29</publishTime>
+    </File>
+    <File Include="socialmedia/likebutton.png">
+      <publishTime>08/08/2017 13:16:05</publishTime>
+    </File>
+    <File Include="socialmedia/twitter.png">
+      <publishTime>06/16/2017 17:26:35</publishTime>
+    </File>
+    <File Include="StyleSheet.css">
+      <publishTime>04/14/2017 11:42:38</publishTime>
+    </File>
+    <File Include="User.aspx">
+      <publishTime>09/10/2017 15:35:48</publishTime>
+    </File>
+    <File Include="UserStyleSheet.css">
+      <publishTime>06/07/2017 16:36:16</publishTime>
+    </File>
+    <File Include="UserSuccessfullyPublishedStyleSheet.css">
+      <publishTime>09/10/2017 15:35:31</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>10/09/2017 15:16:03</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
